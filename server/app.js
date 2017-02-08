@@ -34,6 +34,7 @@ MongoClient.connect('mongodb://videolabuser:videolabuser@ds147069.mlab.com:47069
   *Start Server
   */
   app.listen(3000, () => {
+	  console.log('Server started: http://localhost:3000');
   })
 });
 
