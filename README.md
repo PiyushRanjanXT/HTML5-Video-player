@@ -1,6 +1,7 @@
-# Addedodemo
-Video Lab
+# Addedodemo Video Lab
+
 Project Overview
+
 	Application need nodejs and npm installed.
 
 	This code is only written for chrome latest version.
